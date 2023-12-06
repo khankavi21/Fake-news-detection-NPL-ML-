@@ -1,6 +1,6 @@
 pandas
 nltk
-sklearn
+scikit-learn
 streamlit
 pickle
 re
